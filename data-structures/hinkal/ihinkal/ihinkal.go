@@ -11,9 +11,9 @@ import (
 
 	"github.com/gioeba/go_sdk_test/cryptokeys"
 	"github.com/gioeba/go_sdk_test/data-structures/merkletree"
+	"github.com/gioeba/go_sdk_test/internal/utxo"
 	"github.com/gioeba/go_sdk_test/providers"
 	"github.com/gioeba/go_sdk_test/types"
-	"github.com/gioeba/go_sdk_test/internal/utxo"
 )
 
 // IHinkal is the Go counterpart of @hinkal/sdk's public IHinkal: the external SDK

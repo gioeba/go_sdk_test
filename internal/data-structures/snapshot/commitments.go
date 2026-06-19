@@ -6,9 +6,9 @@ import (
 	"math/big"
 	"strconv"
 
+	"github.com/gioeba/go_sdk_test/data-structures/merkletree"
 	"github.com/gioeba/go_sdk_test/internal/data-structures/blockchainevent"
 	"github.com/gioeba/go_sdk_test/internal/data-structures/eventservice"
-	"github.com/gioeba/go_sdk_test/data-structures/merkletree"
 	"github.com/gioeba/go_sdk_test/internal/functions/utils"
 	"github.com/gioeba/go_sdk_test/types"
 )
@@ -66,6 +66,9 @@ func NewClientCommitmentsSnapshotService(
 func (s *CommitmentsSnapshotService) MerkleTree() merkletree.MerkleTree { return s.merkleTree }
 func (s *CommitmentsSnapshotService) EncryptedOutputs() []*types.EncryptedOutputWithSign {
 	return s.encOutputs
+}
+func (s *CommitmentsSnapshotService) RetrieveEventsFromLatestBlock(ctx context.Context) error {
+	return s.Svc.RetrieveEventsFromLatestBlock(ctx)
 }
 
 func (s *CommitmentsSnapshotService) FetchSnapshot(ctx context.Context) (*types.CommitmentsSerializedSnapshot, error) {
