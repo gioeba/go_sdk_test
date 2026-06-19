@@ -1,0 +1,36 @@
+{
+  "networkRegistry": [
+    {
+      "chainId": 999,
+      "erc20TokenAddress": "0x0000000000000000000000000000000000000000",
+      "name": "HYPE",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/hyper/0b3e288cfe418e9ce69eef4c96374583.png"
+    },
+    {
+      "chainId": 999,
+      "erc20TokenAddress": "0x1fbcCdc677c10671eE50b46C61F0f7d135112450",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 999,
+      "erc20TokenAddress": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDc.avif"
+    },
+    {
+      "chainId": 999,
+      "erc20TokenAddress": "0xbF2D3b1a37D54ce86d0e1455884dA875a97C87a8",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    }
+  ]
+}

@@ -1,0 +1,2758 @@
+{
+  "networkRegistry": [
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0000000000000000000000000000000000000000",
+      "wrappedErc20TokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/ETH.avif",
+      "hasHToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDc.avif",
+      "approvalType": 1,
+      "hasHToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDT.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/WETH.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/WBTC.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/DAI.avif",
+      "approvalType": 2
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+      "name": "Pax Dollar",
+      "symbol": "USDP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6013/standard/Pax_Dollar.png?1696506427"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+      "name": "savings DAI",
+      "symbol": "sDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32254/standard/sdai.png?1697015278"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+      "name": "DAI/USDC/USDT",
+      "symbol": "3crv",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc4AD29ba4B3c580e6D59105FFf484999997675Ff",
+      "name": "USD-BTC-ETH",
+      "symbol": "crv3crypto",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/FRAX.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xFC2838a17D8e8B1D5456E0a351B0708a09211147",
+      "name": "FRAX/USDP",
+      "symbol": "crvfraxUSDP",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC",
+      "name": "FRAX/USDC",
+      "symbol": "crvFRAX",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+      "name": "Gemini dollar",
+      "symbol": "GUSD",
+      "decimals": 2,
+      "logoURI": "https://assets.coingecko.com/coins/images/5992/standard/gemini-dollar-gusd.png?1696506408"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf43211935C781D5ca1a41d2041F397B8A7366C7A",
+      "name": "ETH/frxETH",
+      "symbol": "frxETHCRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B",
+      "name": "Frax/3CRV",
+      "symbol": "FRAX3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/MIM.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+      "name": "Magic Internet Money/3CRV",
+      "symbol": "MIM-3LP3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+      "name": "Synth sUSD",
+      "symbol": "sUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/5013/small/sUSD.png?1616150765"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xC25a3A3b969415c80451098fa907EC722572917F",
+      "name": "DAI/USDC/USDT/sUSD",
+      "symbol": "crvPlain3andSUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xb2C35aC676F4A002669e195CF4dc50DDeDF6F0fA",
+      "name": "eUSD/USDC",
+      "symbol": "eUSDUSDC-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
+      "name": "Synth sETH",
+      "symbol": "sETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/8843/small/sETH.png?1616150207"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c",
+      "name": "ETH/sETH",
+      "symbol": "eCRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
+      "name": "Yearn CRV",
+      "symbol": "yCRV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27622/small/yearncrvnew_32.png?1664881722"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x99f5aCc8EC2Da2BC0771c32814EFF52b712de1E5",
+      "name": "yCRV/CRV",
+      "symbol": "yCRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+      "name": "Synth sBTC",
+      "symbol": "sBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/8838/small/sBTC.png?1616149734"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x051d7e5609917Bd9b73f04BAc0DED8Dd46a74301",
+      "name": "wBTC/sBTC",
+      "symbol": "crvWSBTC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14666/small/Group_3.png?1617631327"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5E8422345238F34275888049021821E8E08CAa1f",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28284/small/frxETH_icon.png?1679886981"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+      "name": "Convex Token",
+      "symbol": "CVX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15585/small/convex.png?1621256328"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+      "name": "Dola USD Stablecoin",
+      "symbol": "DOLA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14287/small/dola.png?1667738374"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3A283D9c08E8b55966afb64C515f5143cf907611",
+      "name": "CVX-ETH",
+      "symbol": "crvCVXETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x06325440D014e39736583c165C2963BA99fAf14E",
+      "name": "ETH/stETH",
+      "symbol": "steCRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4d9f9D15101EEC665F77210cB999639f760F831E",
+      "name": "stETH/frxETH",
+      "symbol": "st-frxETH-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20764/small/reth.png?1637652366"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6c38cE8984a890F5e46e6dF6117C26b3F1EcfC9C",
+      "name": "Rocketpool rETH/ETH",
+      "symbol": "rETH-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7",
+      "name": "Convex CRV",
+      "symbol": "cvxCRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x971add32Ea87f10bD192671630be3BE8A11b8623",
+      "name": "cvxCrv/Crv",
+      "symbol": "cvxcrv-crv-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png?1618395665"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1",
+      "name": "TrueUSD/3CRV",
+      "symbol": "TUSD3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xb40b6608B2743E691C9B54DdBDEe7bf03cd79f1c",
+      "name": "UZD Zunami Stable",
+      "symbol": "UZD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27621/small/UZD_Logo_200x200.png?1666428507"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x68934F60758243eafAf4D2cFeD27BF8010bede3a",
+      "name": "Zunami UZD/FRAXBP",
+      "symbol": "UZDFRAXBP3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+      "name": "StargateToken",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/small/STG_LOGO.png?1647654518"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xdf55670e27bE5cDE7228dD0A6849181891c9ebA1",
+      "name": "STG/USDC",
+      "symbol": "STGUSDC-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x9D0464996170c6B9e75eED71c68B99dDEDf279e8",
+      "name": "cvxCRV/CRV",
+      "symbol": "cvxcrv-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/small/Frax_Shares_icon.png?1679886947"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xFEEf77d3f69374f66429C91d732A244f074bdf74",
+      "name": "Convex FXS",
+      "symbol": "cvxFXS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29001/small/cvxfxs.png?1675872793"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+      "name": "Alchemix USD",
+      "symbol": "alUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14114/small/Alchemix_USD.png?1614410406"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xB30dA2376F63De30b42dC055C93fa474F31330A5",
+      "name": "alUSDFRAXBP",
+      "symbol": "alUSDFRAXB3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x828b154032950C8ff7CF8085D841723Db2696056",
+      "name": "stETH concentrated",
+      "symbol": "STETHETH_C-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+      "name": "Origin Dollar",
+      "symbol": "OUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12589/small/ousd-logo-200x200.png?1600943287"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x87650D7bbfC3A9F10587d7778206671719d9910D",
+      "name": "Origin Dollar/3CRV",
+      "symbol": "OUSD3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+      "name": "Keep3rV1",
+      "symbol": "KP3R",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12966/small/kp3r_logo.jpg?1607057458"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4647B6D835f3B393C7A955df51EEfcf0db961606",
+      "name": "KP3R/ETH",
+      "symbol": "KP3RETH-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+      "name": "Alchemix ETH",
+      "symbol": "alETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/16271/small/aleth.png?1685957289"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+      "name": "Lido DAO Token",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/LDO.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xb79565c01b7Ae53618d9B847b9443aAf4f9011e7",
+      "name": "LDO/ETH",
+      "symbol": "LDOETH-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/small/yearn.jpg?1687142705"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x29059568bB40344487d62f7450E78b8E6C74e0e5",
+      "name": "YFI/ETH",
+      "symbol": "YFIETH-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/27008/small/cbeth.png?1661390066"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5b6C539b224014A09B3388e51CaAA8e354c959C8",
+      "name": "cbETH/ETH",
+      "symbol": "cbETH/ETH-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xd7C9F0e536dC865Ae858b0C0453Fe76D13c3bEAc",
+      "name": "XAI Stablecoin",
+      "symbol": "XAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28254/small/Xai_logo.png?1668674085"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x326290A1B0004eeE78fa6ED4F1d8f4b2523ab669",
+      "name": "XAI/FRAXBP",
+      "symbol": "XAIFRAXBP3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xBEA0000029AD1c77D3d5D23Ba2D8893dB9d1Efab",
+      "name": "Bean",
+      "symbol": "BEAN",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/18447/small/bean-logo-coingecko.png?1632090495"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc9C32cd16Bf7eFB85Ff14e0c8603cc90F6F2eE49",
+      "name": "Bean/3CRV",
+      "symbol": "BEAN3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x836A808d4828586A69364065A1e064609F5078c7",
+      "name": "JPEGd ETH",
+      "symbol": "pETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24025/small/et_43CNi_400x400.jpg?1646100264"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c",
+      "name": "Alchemix USD 3CRV",
+      "symbol": "alUSD3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x21E27a5E5513D6e65C4f830167390997aA84843a",
+      "name": "stETH-ng",
+      "symbol": "stETH-ng-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
+      "name": "EURS",
+      "symbol": "STASIS EURS Token",
+      "decimals": 2,
+      "logoURI": "https://assets.coingecko.com/coins/images/5164/small/EURS_300x300.png?1550571779"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3D229E1B4faab62F621eF2F6A610961f7BD7b23B",
+      "name": "crvEURSUSDC",
+      "symbol": "crvEURSUSDC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+      "name": "Origin Ether",
+      "symbol": "OETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29733/small/OETH.png?1681094770"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x94B17476A93b3262d87B9a326965D1E91f9c13E7",
+      "name": "OETHCRV",
+      "symbol": "OETHCRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xF95AAa7EBB1620e46221B73588502960Ef63dBa0",
+      "name": "tBTC/wBTC/sBTC",
+      "symbol": "TBTCSBTC23CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+      "name": "tBTC",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
+      "name": "Wrapped Binance Beacon ETH",
+      "symbol": "wBETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30061/small/wbeth-icon.png?1683001548"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+      "name": "Compound Dai",
+      "symbol": "cDAI",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/9281/small/cDAI.png?1576467585"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+      "name": "Compound USD Coin",
+      "symbol": "cUSDC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/9442/small/Compound_USDC.png?1567581577"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2",
+      "name": "cDAI/cUSDC",
+      "symbol": "cDAI+cUSDC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+      "name": "Huobi BTC",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12407/small/hbtc.png?1687143034"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xb19059ebb43466C323583928285a49f558E572Fd",
+      "name": "hBTC/wBTC",
+      "symbol": "hCRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x8e595470Ed749b85C6F7669de83EAe304C2ec68F",
+      "name": "Yearn Dai",
+      "symbol": "cyDAI",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/small/yearn.jpg?1687142705"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x76Eb2FE28b36B3ee97F3Adae0C69606eeDB2A37c",
+      "name": "Yearn USD Coin",
+      "symbol": "cyUSDC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/small/yearn.jpg?1687142705"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x48759F220ED983dB51fA7A8C0D2AAb8f3ce4166a",
+      "name": "Yearn Tether USD",
+      "symbol": "cyUSDT",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/small/yearn.jpg?1687142705"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5282a4eF67D9C33135340fB3289cc1711c13638C",
+      "name": "cyDAI/cyUSDC/cyUSDT",
+      "symbol": "ib3CRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+      "name": "renBTC/wBTC/sBTC",
+      "symbol": "crvRenWSBTC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+      "name": "renBTC",
+      "symbol": "renBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/11370/small/Bitcoin.jpg?1628072791"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
+      "name": "renBTC/wBTC",
+      "symbol": "crvRenWBTC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
+      "name": "Electronic Dollar",
+      "symbol": "eUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28445/small/0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f.png?1677723145"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+      "name": "Curve.Fi USD Stablecoin",
+      "symbol": "crvUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3835a58CA93Cdb5f912519ad366826aC9a752510",
+      "name": "CRV/Frax",
+      "symbol": "FraxlendV1-CRV-FRAX",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x892D701d94a43bDBCB5eA28891DaCA2Fa22A690b",
+      "name": "STBT/3CRV",
+      "symbol": "STBT3CRV-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E",
+      "name": "Frax Price Index",
+      "symbol": "FPI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24945/small/FPI_icon.png?1679886853"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4704aB1fb693ce163F7c9D3A31b3FF4eaF797714",
+      "name": "FPI2Pool",
+      "symbol": "FPIFRAX-f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xD2967f45c4f384DEEa880F807Be904762a3DeA07",
+      "name": "GUSD/3Crv",
+      "symbol": "gusd3CRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA",
+      "name": "Liquity USD/3CRV",
+      "symbol": "LUSD3CRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xF3A43307DcAFa93275993862Aae628fCB50dC768",
+      "name": "cvxFxs/Fxs",
+      "symbol": "cvxFxs-Fxs",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xE57180685E3348589E9521aa53Af0BCD497E884d",
+      "name": "DOLA/FRAXBP",
+      "symbol": "DOLAFRAXBP3CRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1539c2461d7432cc114b0903f1824079BfCA2C92",
+      "name": "crvUSD-sDAI",
+      "symbol": "crvUSD-sDAI",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xd4D620B23E91031fa08045b6083878f42558d6b9",
+      "name": "mooAurawstETH/sfrxETH/rETHV3",
+      "symbol": "mooAurawstETH/sfrxETH/rETHV3",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe17D6212eAa54D98187026A770dee96f7C264feC",
+      "name": "mooAurarETH-ETH",
+      "symbol": "mooAurarETH-ETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xD1BeaD7CadcCC6b6a715A6272c39F1EC54F6EC99",
+      "name": "mooConvexTriCryptoUSDC",
+      "symbol": "mooConvexTriCryptoUSDC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x047c41817954b51309a2bd6f60e47bC115C23f1F",
+      "name": "mooVerseWBTC-ETH",
+      "symbol": "mooVerseWBTC-ETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6853691Ca8Da03Da16194E468068bE5A80F103b0",
+      "name": "mooConvexSBTC2",
+      "symbol": "mooConvexSBTC2",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xCc19786F91BB1F3F3Fd9A2eA9fD9a54F7743039E",
+      "name": "mooConvexCvxFXS",
+      "symbol": "mooConvexCvxFXS",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4dE81AD42E9651755716177fAe9911c54F5b055B",
+      "name": "mooConvexRETH",
+      "symbol": "mooConvexRETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x06c1e90eeb34e7Fa6d78B8E58348Ae15C1a615E4",
+      "name": "mooAuraGHO-LUSD",
+      "symbol": "mooAuraGHO-LUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe50e2fe90745A8510491F89113959a1EF01AD400",
+      "name": "mooConvexTriCrypto",
+      "symbol": "mooConvexTriCrypto",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x8cB4f56e9bAa398b6F6a6Fb1B2C4E8ca8cda6ae5",
+      "name": "mooConvexTBTC",
+      "symbol": "mooConvexTBTC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xd5bAd7c89028B3F7094e40DcCe83D4e6b3Fd9AA4",
+      "name": "mooConvexMIM",
+      "symbol": "mooConvexMIM",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3",
+      "name": "mooConvexUSDD",
+      "symbol": "mooConvexUSDD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x15780E0e9618c26dA679740C43bEc76830Ff187b",
+      "name": "mooConvexMultiBTC",
+      "symbol": "mooConvexMultiBTC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xFc6a9D39b44a174B5Ba708dBaa437632d78B8585",
+      "name": "mooAPE",
+      "symbol": "mooAPE",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x83BE6565c0758f746c09f95559B45Cfb9a0FFFc4",
+      "name": "mooConvexCvxFPIS",
+      "symbol": "mooConvexCvxFPIS",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xfE5716D0C141F3d800995420e1d3fB0D0CFFCC31",
+      "name": "mooAuraR-wstETH",
+      "symbol": "mooAuraR-wstETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4115150523599D1F6C6Fa27F5A4C27D578Fd8ce5",
+      "name": "mooConvexCRV",
+      "symbol": "mooConvexCRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x49b562bDcd28dB124f6bA51DEB8Ca483563c067a",
+      "name": "mooConvexTUSD",
+      "symbol": "mooConvexTUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xBE2bD093B8F342e060E79Fad6059B1057F016Ba4",
+      "name": "mooAuraR-DAI",
+      "symbol": "mooAuraR-DAI",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3fe43D4ba0a5BAcC800c7E7E782466a27ab108bf",
+      "name": "mooConvexDolaFraxBP",
+      "symbol": "mooConvexDolaFraxBP",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4dd0cF20237deb5F2bE76340838B9e2D7c70E852",
+      "name": "mooStargateETH",
+      "symbol": "mooStargateETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xE0d5f9DA3613C047003b77cAa31270aBE3EdA6b0",
+      "name": "mooAurawstETH-ETH",
+      "symbol": "mooAurawstETH-ETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xB9911AB699FD781efDA446e7FD995d375B437c8B",
+      "name": "mooMonolithSOLID-ETH",
+      "symbol": "mooMonolithSOLID-ETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x37925b6319cD41014583A6476a7a1d52Ea404b2f",
+      "name": "mooCurveCrvUSD-sDAI ",
+      "symbol": "mooCurveCrvUSD-sDAI",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xAE0bFfc3110e69DA8993F11C1CBd9a6eA3d16daF",
+      "name": "mooCurve-veth",
+      "symbol": "mooCurve-veth",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x42ED016F826165C2e5976fe5bC3df540C5aD0Af7",
+      "name": "wstETH-rETH-sfrxETH-BPT",
+      "symbol": "wstETH-rETH-sfrxETH-BPT",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BAL.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1E19CF2D73a72Ef1332C882F20534B6519Be0276",
+      "name": "B-rETH-STABLE",
+      "symbol": "B-rETH-STABLE",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BAL.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3FA8C89704e5d07565444009e5d9e624B40Be813",
+      "name": "GHO/LUSD",
+      "symbol": "GHO/LUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BAL.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x32296969Ef14EB0c6d29669C550D4a0449130230",
+      "name": "B-stETH-STABLE",
+      "symbol": "B-stETH-STABLE",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BAL.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7F86Bf177Dd4F3494b841a37e810A34dD56c829B",
+      "name": "crvUSDCWBTCWETH",
+      "symbol": "crvUSDCWBTCWETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe6b5CC1B4b47305c58392CE3D359B10282FC36Ea",
+      "name": "USDD3CRV3CRV",
+      "symbol": "USDD3CRV3CRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x2863a328A0B7fC6040f11614FA0728587DB8e353",
+      "name": "multibtc3CRV",
+      "symbol": "multibtc3CRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x642431623AE5d73C19fC931aAeA0d4677303880c",
+      "name": "vAMM-SOLID/WETH",
+      "symbol": "vAMM-SOLID/WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23961/small/Solidly-O.png?1645797138"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xa2847348b58CEd0cA58d23c7e9106A49f1427Df6",
+      "name": "cvxFPIS",
+      "symbol": "cvxFPIS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15585/small/convex.png?1621256328"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xeaCADc656c9394fb09af25AeBc0897fDfFe484A1",
+      "name": "VerseWBTC-ETH",
+      "symbol": "VerseWBTC-ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28424/small/verselogo.png?1670461811"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x380aAbE019ed2a9C2d632b51eDDD30fd804d0fAD",
+      "name": "50R-50wstETH",
+      "symbol": "50R-50wstETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BAL.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x101816545F6bd2b1076434B54383a1E633390A2E",
+      "name": "SGETH",
+      "symbol": "SGETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/small/STG_LOGO.png?1647654518"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+      "name": "APE",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x20a61B948E33879ce7F23e535CC7BAA3BC66c5a9",
+      "name": "R-DAI-BLP",
+      "symbol": "R-DAI-BLP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29551/small/R_200x200.png?1685954962"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5870700f1272a1adbb87c3140bd770880a95e55d",
+      "name": "BIFI",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x9ee91F9f426fA633d227f7a9b000E28b9dfd8599",
+      "name": "Lido staked MATIC",
+      "symbol": "stMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png?1696523373"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "name": "Polygon Matic",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/standard/polygon.png?1698233745"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+      "name": "stETH",
+      "symbol": "stETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png?1696513206",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x35fA164735182de50811E8e2E824cFb9B6118ac2",
+      "name": "ether.fi ETH",
+      "symbol": "eETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33049/large/ether.fi_eETH.png?1700473063",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "name": "wstETH",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png?1696518295"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x94cc50e4521bd271c1a997a3a4dc815c2f920b41",
+      "name": "crvUSD/SUSD",
+      "symbol": "crvUSD/SUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xfef79304c80a694dfd9e603d624567d470e1a0e7",
+      "name": "crvUSD-sFRAX",
+      "symbol": "crvUSD-sFRAX",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x8272e1a3dbef607c04aa6e5bd3a1a134c8ac063b",
+      "name": "crvUSD/DOLA",
+      "symbol": "crvUSD/DOLA",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc794c6a95f30d0ebf7b3bbe85e8a0a95c9e411c1",
+      "name": "hyUSD/eUSD",
+      "symbol": "hyUSD/eUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xaeda92e6a3b1028edc139a4ae56ec881f3064d4f",
+      "name": "eUSD+FRAX/USDC",
+      "symbol": "eUSD+FRAX/USDC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xacdf0dba4b9839b96221a8487e9ca660a48212be",
+      "name": "hyUSD",
+      "symbol": "hyUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30899/small/hyusdlogo.png?1700809180"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/standard/chainlink-new-logo.png?1696502009"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
+      "name": "Staked FRAX",
+      "symbol": "sFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/small/FRAX_icon.png?1696513182"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x60a91E2B7A1568f0848f3D43353C453730082E46",
+      "name": "PoLido",
+      "symbol": "PLO",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/24185/standard/stMATIC.png",
+      "nftTokenType": "ERC721"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x889edC2eDab5f40e902b864aD4d7AdE8E412F9B1",
+      "name": "Lido: stETH Withdrawal NFT",
+      "symbol": "unstETH",
+      "decimals": 0,
+      "logoURI": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png",
+      "nftTokenType": "ERC721"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
+      "name": "Pirex Ether",
+      "symbol": "pxETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33608/standard/pxETH-icon-transbg_72dpi.png?1702512024"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf8fde8a259a3698902c88bdb1e13ff28cd7f6f09",
+      "name": "FXB_2_DEC312024",
+      "symbol": "FXB_2_DEC312024",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/fraxfxb_32.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x76237BCfDbe8e06FB774663add96216961df4ff3",
+      "name": "FXB_4_DEC312026",
+      "symbol": "FXB_4_DEC312026",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/fraxfxb_32.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0dE54CFdfeD8005176f8b7A9D5438B45c4F1df1e",
+      "name": "FXB_1_JUN302024",
+      "symbol": "FXB_1_JUN302024",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/fraxfxb_32.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xb27D1729489d04473631f0AFAca3c3A7389ac9F8",
+      "name": "Silo Finance Borrowable crvUSD",
+      "symbol": "scrvUSD-CRV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x38D64ce1Bdf1A9f24E0Ec469C9cAde61236fB4a0",
+      "name": "Vector ETH",
+      "symbol": "vETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x38d64ce1bdf1a9f24e0ec469c9cade61236fb4a0.png"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x9961BdBE8B7091E584c2bF9D0a160C583f564A8c",
+      "name": "Conic crvUSD",
+      "symbol": "cncCRVUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24747/standard/cnc.png?1696523909"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe2Ed1dAc3A9547BC6057e32bf8133b5268D7d987",
+      "name": "pxETH/frxETH",
+      "symbol": "pxETH/frxETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6307e6688819951cf8d6b6066018243d2496952f",
+      "name": "FRAX/FXB_2_DEC312024",
+      "symbol": "FRAX/FXB_2_DEC312024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe035e27a8ed6842b478933820f90093d205f7098",
+      "name": "FRAX/FXB_4_DEC312026",
+      "symbol": "FRAX/FXB_4_DEC312026",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4ef4c7519023f30a78647eeab321d6cfabc2513c",
+      "name": "FRAX/FXB_1_JUN302024",
+      "symbol": "FRAX/FXB_1_JUN302024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4253ac4046fbfdafcfe125d067b6d89f6923843e",
+      "name": "crvUSD/Fraxlend",
+      "symbol": "crvUSD/Fraxlend",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x67701d67b60a96473bfc4873e7a484035c8609b0",
+      "name": "crvUSD/scrvUSD",
+      "symbol": "crvUSD/scrvUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6685fcfce05e7502bf9f0aa03b36025b09374726",
+      "name": "vETH/WETH",
+      "symbol": "vETH/WETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe3e637f8acc097244a065791142c29fbf5877d18",
+      "name": "crvUSD/cncCRVUSD",
+      "symbol": "crvUSD/cncCRVUSD",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1BB9b64927e0C5e207C9DB4093b3738Eef5D8447",
+      "name": "VEC",
+      "symbol": "VEC",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/34876/standard/photo_2024-01-28_23-33-10-removebg-preview.png?1706496385"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+      "name": "Wrapped Restaked eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/small/weETH.png?1701438396"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "rsETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33800/standard/Icon___Dark.png?1702991855"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+      "name": "Renzo restaked ETH",
+      "symbol": "ezETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/34753/standard/eth_renzo_logo_%281%29.png?1705956747"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
+      "name": "Puffer restaked ETH",
+      "symbol": "pufETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22049/standard/logo_%281%29.png?1696521393"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xAC0047886a985071476a1186bE89222659970d65",
+      "name": "SY ether.fi weETH 27JUN2024",
+      "symbol": "SY-weETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xfb35Fd0095dD1096b1Ca49AD44d8C5812A201677",
+      "name": "YT ether.fi weETH 27JUN2024",
+      "symbol": "YT-weETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc69Ad9baB1dEE23F4605a82b3354F8E40d1E5966",
+      "name": "PT ether.fi weETH 27JUN2024",
+      "symbol": "PT-weETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x730A5E2AcEbccAA5e9095723B3CB862739DA793c",
+      "name": "SY Kelp rsETH 27JUN2024",
+      "symbol": "SY-rsETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0ED3A1D45DfdCf85BCc6C7BAFDC0170A357B974C",
+      "name": "YT Kelp rsETH 27JUN2024",
+      "symbol": "YT-rsETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xB05cABCd99cf9a73b19805edefC5f67CA5d1895E",
+      "name": "PT Kelp rsETH 27JUN2024",
+      "symbol": "PT-rsETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x253008ba4aE2f3E6488DC998a5321D4EB1a0c905",
+      "name": "SY Puffer ETH 27JUN2024",
+      "symbol": "SY-pufETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x391B570e81e354a85a496952b66ADc831715f54f",
+      "name": "YT Puffer ETH 27JUN2024",
+      "symbol": "YT-pufETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xC58aa33Ce619c7f7Ac4929DF357D0Ef762edbD23",
+      "name": "PT Puffer ETH 27JUN2024",
+      "symbol": "PT-pufETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7a493be5c2ce014cd049bf178a1ac0db1b434744",
+      "name": "SY Zircuit Staking ezETH 27JUN2024",
+      "symbol": "SY-zs-ezETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x98601E27d41ccff643da9d981dc708cf9eF1F150",
+      "name": "YT Zircuit Staking ezETH 27JUN2024",
+      "symbol": "YT-zs-ezETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xDDFD5e912C1949B4bDb12579002c44B7A83F9E88",
+      "name": "PT Zircuit Staking ezETH 27JUN2024",
+      "symbol": "PT-zs-ezETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xD7DF7E085214743530afF339aFC420c7c720BFa7",
+      "name": "SY Zircuit Ether.fi weETH 27JUN2024",
+      "symbol": "SY-zs-weETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7C2D26182adeEf96976035986cF56474feC03bDa",
+      "name": "YT Zircuit Ether.fi weETH 27JUN2024",
+      "symbol": "YT-zs-weETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4AE5411F3863CdB640309e84CEDf4B08B8b33FfF",
+      "name": "PT Zircuit Ether.fi weETH 27JUN2024",
+      "symbol": "PT-zs-weETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x34349c5569e7b846c3558961552d2202760a9789",
+      "name": "SY Zircuit Kelp rsETH 27JUN2024",
+      "symbol": "SY-zs-rsETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x029aad400f6092dc735a65be95102efcc2fe64bf",
+      "name": "YT Zircuit Kelp rsETH 27JUN2024",
+      "symbol": "YT-zs-rsETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x094be6bd31d7b860f7d2c1f280fd09f0463d7e67",
+      "name": "PT Zircuit Kelp rsETH 27JUN2024",
+      "symbol": "PT-zs-rsETH-27JUN2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4d5F47FA6A74757f35C14fD3a6Ef8E3C9BC514E8",
+      "underlyingErc20TokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "WETH_A_TOKEN v3",
+      "symbol": "WETH_A_TOKEN v3",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0B925eD163218f6662a35e0f0371Ac234f9E9371",
+      "underlyingErc20TokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "name": "wstETH_A_TOKEN v3",
+      "symbol": "wstETH_A_TOKEN v3",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5Ee5bf7ae06D1Be5997A1A72006FE6C607eC6DE8",
+      "underlyingErc20TokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "WBTC_A_TOKEN v3",
+      "symbol": "WBTC_A_TOKEN v3",
+      "decimals": 8,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c",
+      "underlyingErc20TokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USDC_A_TOKEN v3",
+      "symbol": "USDC_A_TOKEN v3",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
+      "underlyingErc20TokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "USDT_A_TOKEN v3",
+      "symbol": "USDT_A_TOKEN v3",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x018008bfb33d285247A21d44E50697654f754e63",
+      "underlyingErc20TokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "DAI_A_TOKEN v3",
+      "symbol": "DAI_A_TOKEN v3",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
+      "underlyingErc20TokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "WBTC_A_TOKEN v2",
+      "symbol": "WBTC_A_TOKEN v2",
+      "decimals": 8,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+      "underlyingErc20TokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "WETH_A_TOKEN v2",
+      "symbol": "WETH_A_TOKEN v2",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xBcca60bB61934080951369a648Fb03DF4F96263C",
+      "underlyingErc20TokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USDC_A_TOKEN v2",
+      "symbol": "USDC_A_TOKEN v2",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
+      "underlyingErc20TokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "USDT_A_TOKEN v2",
+      "symbol": "USDT_A_TOKEN v2",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+      "underlyingErc20TokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "DAI_A_TOKEN v2",
+      "symbol": "DAI_A_TOKEN v2",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/AAVE.avif",
+      "isVolatile": true,
+      "aaveToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+      "name": "Wrapped TON Coin",
+      "symbol": "TONCOIN",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/17980/standard/ton_symbol.png?1696517498"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+      "name": "Bitfinex LEO Token",
+      "symbol": "LEO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/8418/standard/leo-token.png?1696508607"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/30980/standard/token-logo.png?1696529819"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+      "name": "CRO",
+      "symbol": "CRO",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7310/standard/cro_token_logo.png?1696507599"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+      "name": "OKB",
+      "symbol": "OKB",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4463/standard/WeChat_Image_20220118095654.png?1696505053"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+      "name": "Render Token",
+      "symbol": "RNDR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11636/standard/rndr.png?1696511529"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+      "name": "Immutable X",
+      "symbol": "IMX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17233/standard/immutableX-symbol-BLK-RGB.png?1696516787"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "name": "Graph Token",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/standard/Graph_Token.png?1696513159"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+      "name": "Injective Token",
+      "symbol": "INJ",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12882/standard/Secondary_Symbol.png?1696512670"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/standard/3466ef_3c088c66c7d941e8856339d0bddf33cc_mv2.png?1702514458"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+      "name": "sUSDe",
+      "symbol": "sUSDe",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/standard/sUSDe-Symbol-Color.png?1716307680"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+      "name": "Fetch",
+      "symbol": "FET",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/5681/standard/Fetch.jpg?1696506140"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4a220e6096b25eadb88358cb44068a3248254675",
+      "name": "Quant",
+      "symbol": "QNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/3370/standard/5ZOu7brX_400x400.jpg?1696504070"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+      "name": "Beam",
+      "symbol": "BEAM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x57e114b691db790c35207b2e685d4a43181e6061",
+      "name": "ENA",
+      "symbol": "ENA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/36530/standard/ethena.png?1711701436"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/UNISWAP.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xEEda34A377dD0ca676b9511EE1324974fA8d980D",
+      "name": "pufETH/wstETH",
+      "symbol": "pufETH/wstETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x14100f81e33C33Ecc7CDac70181Fb45B6E78569F",
+      "name": "USD0/USDC",
+      "symbol": "USD0/USDC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x808507121b80c02388fad14726482e061b8da827",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif"
+    },
+    {
+      "chainId": 1,
+      "name": "LP ether.fi weETH 27JUN2024",
+      "symbol": "LP-weETH-27JUN2024",
+      "erc20TokenAddress": "0xF32e58F92e60f4b0A37A69b95d642A471365EAe8",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP Kelp rsETH 27JUN2024",
+      "symbol": "LP-rsETH-27JUN2024",
+      "erc20TokenAddress": "0x4f43c77872Db6BA177c270986CD30c3381AF37Ee",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP Puffer ETH 27JUN2024",
+      "symbol": "LP-pufETH-27JUN2024",
+      "erc20TokenAddress": "0x17BE998a578fD97687b24E83954FEc86Dc20c979",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP Zircuit Staking ezETH 27JUN2024",
+      "symbol": "LP-zs-ezETH-27JUN2024",
+      "erc20TokenAddress": "0xd7E0809998693fD87E81D51dE1619fd0EE658031",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP Zircuit Ether.fi weETH 27JUN2024",
+      "symbol": "LP-zs-weETH-27JUN2024",
+      "erc20TokenAddress": "0xe26D7f9409581f606242300fbFE63f56789F2169",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP Zircuit Kelp rsETH 27JUN2024",
+      "symbol": "LP-zs-rsETH-27JUN2024",
+      "erc20TokenAddress": "0x445d25a1c31445fb29e65d12da8e0eea38174176",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0d86883faf4ffd7aeb116390af37746f45b6f378",
+      "name": "Web3 Dollar",
+      "symbol": "USD3",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38073/standard/usd3%28200_x_200_px%29.png?1716449060"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6BdCBeF41Ca2ABE587cE7CcC895320e0061EdbA4",
+      "underlyingErc20TokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Kinza WETH",
+      "symbol": "kWETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x75287853d44f263639AF649283403eC39F895dAb",
+      "underlyingErc20TokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Kinza DAI",
+      "symbol": "kDAI",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf96eB7018654082198da9Be23dd8ab1CD05A175b",
+      "underlyingErc20TokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "KinzaUSDT",
+      "symbol": "kUSDT",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x89c15CAde77CbA4f5C78D1fa845B854623Ad8696",
+      "underlyingErc20TokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "Kinza USDC",
+      "symbol": "kUSDC",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x48dFa0f826E8026ba51342FFf61E9584ECCadF69",
+      "underlyingErc20TokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "Kinza WBTC",
+      "symbol": "kWBTC",
+      "decimals": 8,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x16E22798a2064AdFaA09FD7c380D5CA8C895c296",
+      "underlyingErc20TokenAddress": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+      "name": "Kinza rETH",
+      "symbol": "krETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xd7ecAcF4cDAe0C59CDd034C6f0D959e7933bFD6c",
+      "underlyingErc20TokenAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+      "name": "Kinza weETH",
+      "symbol": "kweETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5651bb75dE3c78815D420602B4Ce67D04a233873",
+      "underlyingErc20TokenAddress": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
+      "name": "Kinza pufETH",
+      "symbol": "kpufETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0CF5a1Ab4185C69Ef715190B9c9f93b3B05ff55B",
+      "underlyingErc20TokenAddress": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+      "name": "Kinza rsETH",
+      "symbol": "krsETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6679DFcbc9000dCF9A798B8f0f2B1C12D164cDd4",
+      "underlyingErc20TokenAddress": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+      "name": "Kinza ezETH",
+      "symbol": "kezETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf818fbB391f0E84b620D48d8C2c8345E59f605eB",
+      "underlyingErc20TokenAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "name": "Kinza wstETH",
+      "symbol": "kwstETH",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/KDAI.png",
+      "isVolatile": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP ether.fi weETH 26DEC2024",
+      "symbol": "LP-weETH-26DEC2024",
+      "erc20TokenAddress": "0x7d372819240d14fb477f17b964f95f33beb4c704",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+      "name": "YT ether.fi weETH 26DEC2024",
+      "symbol": "YT-weETH-26DEC2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+      "name": "PT ether.fi weETH 26DEC2024",
+      "symbol": "PT-weETH-26DEC2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x22e12a50e3ca49fb183074235cb1db84fe4c716d",
+      "name": "SY Zircuit Staking ezETH 26DEC2024",
+      "symbol": "SY-zs-ezETH-26DEC2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7749f5ed1e356edc63d469c2fcac9adeb56d1c2b",
+      "name": "YT Zircuit Staking ezETH 26DEC2024",
+      "symbol": "YT-zs-ezETH-26DEC2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf7906f274c174a52d444175729e3fa98f9bde285",
+      "name": "PT Zircuit Staking ezETH 26DEC2024",
+      "symbol": "PT-zs-ezETH-26DEC2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP Zircuit Staking ezETH 26DEC2024",
+      "symbol": "LP-zs-ezETH-26DEC2024",
+      "erc20TokenAddress": "0xd8f12bcde578c653014f27379a6114f67f0e445f",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1a65eb80a2ac3ea6e41d456ddd6e9cc5728bef7c",
+      "name": "YT Puffer ETH 26SEP2024",
+      "symbol": "YT-pufETH-26SEP2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xd4e75971eaf78a8d93d96df530f1fff5f9f53288",
+      "name": "PT Puffer ETH 26SEP2024",
+      "symbol": "PT-pufETH-26SEP2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP Puffer ETH 26SEP2024",
+      "symbol": "LP-pufETH-26SEP2024",
+      "erc20TokenAddress": "0xa54fc268101c8b97de19ef3141d34751a11996b2",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "name": "LP ether.fi weETH 26SEP2024",
+      "symbol": "LP-weETH-26SEP2024",
+      "erc20TokenAddress": "0xc8edd52d0502aa8b4d5c77361d4b3d300e8fc81c",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xa54df645a042d24121a737daa89a57ebf8e0b71c",
+      "name": "YT ether.fi weETH 26SEP2024",
+      "symbol": "YT-weETH-26SEP2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1c085195437738d73d75dc64bc5a3e098b7f93b1",
+      "name": "PT ether.fi weETH 26SEP2024",
+      "symbol": "PT-weETH-26SEP2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf99985822fb361117fcf3768d34a6353e6022f5f",
+      "name": "PT lido.fi wstETH 25DEC2025",
+      "symbol": "PT-wstETH-25DEC2025",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc374f7ec85f8c7de3207a10bb1978ba104bda3b2",
+      "name": "LP lido.fi wstETH 25DEC2025",
+      "symbol": "LP-wstETH-25DEC2025",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xf3abc972a0f537c1119c990d422463b93227cd83",
+      "name": "YT lido.fi wstETH 25DEC2025",
+      "symbol": "YT-wstETH-25DEC2025",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xcbc72d92b2dc8187414f6734718563898740c0bc",
+      "name": "SY lido.fi wstETH 25DEC2025",
+      "symbol": "SY-wstETH-25DEC2025",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4139cdc6345affbac0692b43bed4d059df3e6d65",
+      "name": "SY ethena.fi sUSDe 26SEP2024",
+      "symbol": "SY-sUSDe-26SEP2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xd1d7d99764f8a52aff007b7831cc02748b2013b5",
+      "name": "LP ethena.fi sUSDe 26SEP2024",
+      "symbol": "LP-sUSDe-26SEP2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xdc02b77a3986da62c7a78fed73949c9767850809",
+      "name": "YT ethena.fi sUSDe 26SEP2024",
+      "symbol": "YT-sUSDe-26SEP2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6c9f097e044506712b58eac670c9a5fd4bccef13",
+      "name": "PT ethena.fi sUSDe 26SEP2024",
+      "symbol": "PT-sUSDe-26SEP2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6c269DFc142259c52773430b3c78503CC994a93E",
+      "name": "LP Zircuit weETH 22AUG2024",
+      "symbol": "LP-zs-weETH-22AUG2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x323DA63d354c9d79DF927fd21CE5B97aDD3a50d9",
+      "name": "YT Zircuit weETH 22AUG2024",
+      "symbol": "YT-zs-weETH-22AUG2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7131eD1994BA1A2a5392FE4D99e579f49F5eD48F",
+      "name": "PT Zircuit weETH 22AUG2024",
+      "symbol": "PT-zs-weETH-22AUG2024",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/PENDLE.avif",
+      "isPendleToken": true
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
+      "name": "Usual USD",
+      "symbol": "USD0",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/38272/standard/USD0LOGO.png?1716962811"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x06F4EFE7438648aCe43AE07FeB40F163f6826804",
+      "underlyingErc20TokenAddress": "0xbFcF63294aD7105dEa65aA58F8AE5BE2D9d0952A",
+      "name": "crv3Pool Gauge",
+      "symbol": "crv3Pool-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xaf159A5e861fE556249d0d46B1DD78a667DB66b8",
+      "underlyingErc20TokenAddress": "0x689440f2Ff927E1f24c72F1087E1FAF471eCe1c8",
+      "name": "Convex crv3Pool",
+      "symbol": "cvxcrv3Pool",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xD961A4bdad5682E8026a5050DC0efd12727c755f",
+      "underlyingErc20TokenAddress": "0xcfc25170633581bf896cb6cdee170e3e3aa59503",
+      "name": "fraxUSDC Gauge",
+      "symbol": "fraxUSDC-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xcb15b37FDFc71AEaaE170a2EBa0e60B83c64F85B",
+      "underlyingErc20TokenAddress": "0x7e880867363A7e321f5d260Cade2B0Bb2F717B02",
+      "name": "Convex fraxUSDC",
+      "symbol": "cvxfraxUSDC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x814440ab2B81bb9E32fc4494a2D085BbC27Ca227",
+      "underlyingErc20TokenAddress": "0x2932a86df44fe8d2a706d8e9c5d51c24883423f5",
+      "name": "frxETHCRV Gauge",
+      "symbol": "frxETHCRV-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x31eD91586944724B2Cd44E38a73d8ccCe3789ba6",
+      "underlyingErc20TokenAddress": "0xbD5445402B0a287cbC77cb67B2a52e2FC635dce4",
+      "name": "Convex frxETHCRV",
+      "symbol": "cvxfrxETHCRV",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x444E40bF25959FCF44742781aCA3ae966e8e5188",
+      "underlyingErc20TokenAddress": "0xfb860600f1be1f1c72a89b2ef5caf345aff7d39d",
+      "name": "crvfraxUSDP Gauge",
+      "symbol": "crvfraxUSDP-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe824c71c52A51a54EB9228d1666BeC3db58C2805",
+      "underlyingErc20TokenAddress": "0x6991C1CD588c4e6f6f1de3A0bac5B8BbAb7aAF6d",
+      "name": "Convex crvfraxUSDP",
+      "symbol": "cvxcrvfraxUSDP",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xD1605e7c2a005bcfe5B2a41019399c630D60AdA5",
+      "underlyingErc20TokenAddress": "0xDeFd8FdD20e0f34115C7018CCfb655796F6B2168",
+      "name": "crv3crypto Gauge",
+      "symbol": "crv3crypto-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x31a02269618C6Ed656285724c0D719C493B61D7c",
+      "underlyingErc20TokenAddress": "0x9D5C5E364D81DaB193b72db9E9BE9D8ee669B652",
+      "name": "Convex crv3crypto",
+      "symbol": "cvxcrv3crypto",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5b8E16eED13A7BD59B3dE5eD6b486E7EE6C9b456",
+      "underlyingErc20TokenAddress": "0x512a68dd5433563bad526c8c2838c39debc9a756",
+      "name": "crvUsdcSusd Gauge",
+      "symbol": "crvUsdcSusd-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x5FC109977da05A83b8499CEF00AbAA673baBda58",
+      "underlyingErc20TokenAddress": "0xecad6745058377744c09747b2715c0170b5699e5",
+      "name": "crvUsdDola Gauge",
+      "symbol": "crvUsdDola-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x41F9196AA9134A361d0E08C2820eB04070BF1ED3",
+      "underlyingErc20TokenAddress": "0xC94208D230EEdC4cDC4F80141E21aA485A515660",
+      "name": "Convex crvUsdDola",
+      "symbol": "cvxcrvUsdDola",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xa4Ccf6dEb287C38bca66BE8CC8E0cD8bAb67BBcE",
+      "underlyingErc20TokenAddress": "0x27cace18f661161661683bba43933b2e6eb1741e",
+      "name": "hyUsdEusd Gauge",
+      "symbol": "hyUsdEusd-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xE6E1738e2Db8AF1743E7fe2D0bC9F5c17a440f21",
+      "underlyingErc20TokenAddress": "0x245Ec0d447e7f206B43120Ac292dED5E8bB9fe61",
+      "name": "Convex hyUsdEusd",
+      "symbol": "cvxhyUsdEusd",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x69E5efA4aaa663E54ACD28EdFD4bba334dE1014f",
+      "underlyingErc20TokenAddress": "0xbe266d68ce3ddfab366bb866f4353b6fc42ba43c",
+      "name": "DolaFraxBp Gauge",
+      "symbol": "DolaFraxBp-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc6a5583Ff5A82B4a79D6F5B8e46aC6BAa2B7c445",
+      "underlyingErc20TokenAddress": "0x0404d05F3992347d2f0dC3a97bdd147D77C85c1c",
+      "name": "Convex DolaFraxBp",
+      "symbol": "cvxDolaFraxBp",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1055b52492da2a55ab2f259dB3883a1dda0996F3",
+      "underlyingErc20TokenAddress": "0x8605dc0c339a2e7e85eea043bd29d42da2c6d784",
+      "name": "EusdFraxBp Gauge",
+      "symbol": "EusdFraxBp-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xe1A32EC8C771477da795050C9F92fa8A36C72643",
+      "underlyingErc20TokenAddress": "0xB468dB2E478885B87D7ce0C8DA1D4373A756C138",
+      "name": "Convex EusdFraxBp",
+      "symbol": "cvxEusdFraxBp",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xB18E43d3EAc2C65020C8585f8354541a6BAa4565",
+      "underlyingErc20TokenAddress": "0xc548f3ab7bd06fbd968b83f3b197372e641deae3",
+      "name": "hETHWETH Gauge",
+      "symbol": "hETHWETH-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xB727896fB707D3b3a59648A9fDF452cd4f65B90E",
+      "underlyingErc20TokenAddress": "0x277d1424a84b35ec0a8108482551b00b4fc1539b",
+      "name": "pxETH-frxETH Gauge",
+      "symbol": "pxETH-frxETH-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x2A861bDb17A4967D68ba26664D82b37BCFb48AFb",
+      "underlyingErc20TokenAddress": "0xc2fe9d3c761994897594df63b33b6d843ab7b1cf",
+      "name": "FRAX-FXB_2_DEC312024 Gauge",
+      "symbol": "FRAX-FXB_2_DEC312024-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x9304bd0b34220602257E792F56Da7F9E56515234",
+      "underlyingErc20TokenAddress": "0x0e83df148f69965bfe752250835854b0dbeeaf01",
+      "name": "FRAX-FXB_4_DEC312026 Gauge",
+      "symbol": "FRAX-FXB_4_DEC312026-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x732546d5759eEB8efB5aBd4b58c2E3092C02f4b5",
+      "underlyingErc20TokenAddress": "0x35ad1acf0c4be5d4ba11342128d440fdb9e189eb",
+      "name": "FRAX-FXB_1_JUN302024 Gauge",
+      "symbol": "FRAX-FXB_1_JUN302024-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xa6FcB2e04C85788db71568b2f81CC676DFb6749b",
+      "underlyingErc20TokenAddress": "0xe2c422d954db416a69fb29137fe552cce0e160e9",
+      "name": "crvUSD-FraxlendV1 Gauge",
+      "symbol": "crvUSD-FraxlendV1-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x69B9DCB43A19847F122aB79Ed3F43ac110fDFEc6",
+      "underlyingErc20TokenAddress": "0x621ef98282ac42d2bf4c20fc73912a16599e12fb",
+      "name": "crvUSD-scrvUSD Gauge",
+      "symbol": "crvUSD-scrvUSD-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xcc92e1032D146A3F9a7f10Fa8CDaF29Ec81541d0",
+      "underlyingErc20TokenAddress": "0x8dff75976f22db58d7c3fd7b68d782238b0dbe30",
+      "name": "vETH-WETH Gauge",
+      "symbol": "vETH-WETH-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x0baD36aa74Dd88913C9a2E90B297CB25A3Ca74b9",
+      "underlyingErc20TokenAddress": "0xc2a56e8888786a30a5b56cbe4450a81ddf26ac0c",
+      "name": "USDC-USD0 Gauge",
+      "symbol": "USDC-USD0-gauge",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/CRV.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x31BB592D2AEcFEEBD5fBE7c4AA1227d881cC8C5e",
+      "underlyingErc20TokenAddress": "0x0E5F3a47122901D3eE047d2C7e1B36b419Ede5FE",
+      "name": "silo-weeth-eth",
+      "symbol": "silo-weeth-eth",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xE37d7ff3B49884d68fe3c3763E1af287677555B7",
+      "underlyingErc20TokenAddress": "0xAE0bFfc3110e69DA8993F11C1CBd9a6eA3d16daF",
+      "name": "curve-veth-Boost",
+      "symbol": "curve-veth-Boost",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/BIFI.avif"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xaE09d52bb1b48BB03c3A05C49255dAA2877D283C",
+      "underlyingErc20TokenAddress": "0xfb35Fd0095dD1096b1Ca49AD44d8C5812A201677",
+      "name": "Pendle-YT-WEETH-JUNE2024",
+      "symbol": "Pendle-YT-WEETH-JUNE2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc99d080B7b10bA88b4Ad6bf7e6949BC6bBA4bfF8",
+      "underlyingErc20TokenAddress": "0x0ED3A1D45DfdCf85BCc6C7BAFDC0170A357B974C",
+      "name": "Pendle-YT-RSETH-KELP-JUNE2024",
+      "symbol": "Pendle-YT-RSETH-KELP-JUNE2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x02D1a74F366554aD5e65eBda239e7f3eD7a896Cd",
+      "underlyingErc20TokenAddress": "0x391B570e81e354a85a496952b66ADc831715f54f",
+      "name": "Pendle-YT-PUFETH-JUNE2024",
+      "symbol": "Pendle-YT-PUFETH-JUNE2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xC3033E84628c08ECD319169EBDdaF41678ba2360",
+      "underlyingErc20TokenAddress": "0x98601E27d41ccff643da9d981dc708cf9eF1F150",
+      "name": "Pendle-YT-ZIRCUIT-EZETH-JUNE2024",
+      "symbol": "Pendle-YT-ZIRCUIT-EZETH-JUNE2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x665098c954f060F3B34E54fe0506B108472ebEa7",
+      "underlyingErc20TokenAddress": "0x7C2D26182adeEf96976035986cF56474feC03bDa",
+      "name": "Pendle-YT-ZIRCUIT-EETH-JUN2024",
+      "symbol": "Pendle-YT-ZIRCUIT-EETH-JUN2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x53F4420bee8B95513Ab79018C307492E68C6D112",
+      "underlyingErc20TokenAddress": "0x029aad400f6092dc735a65be95102efcc2fe64bf",
+      "name": "Pendle-YT-ZIRCUIT-RSETH-JUN2024",
+      "symbol": "Pendle-YT-ZIRCUIT-RSETH-JUN2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1B8A203c00001c048641FB14CEB5136D57b5eAbe",
+      "underlyingErc20TokenAddress": "0xdc02b77a3986da62C7A78FED73949C9767850809",
+      "name": "Pendle-YT-SUSDE-MAINNET-SEP2024",
+      "symbol": "Pendle-YT-SUSDE-MAINNET-SEP2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xa20EE37c05a590F913705bcca3C39860591e50C3",
+      "underlyingErc20TokenAddress": "0x129e6B5DBC0Ecc12F9e486C5BC9cDF1a6A80bc6A",
+      "name": "Pendle-YT-WEETH-DEC2024",
+      "symbol": "Pendle-YT-WEETH-DEC2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x3A63226Adc81619363199A17631096D90bBb685e",
+      "underlyingErc20TokenAddress": "0x7749F5Ed1e356EDc63D469c2fcaC9adEB56d1C2b",
+      "name": "Pendle-YT-EZETH-DEC2024",
+      "symbol": "Pendle-YT-EZETH-DEC2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x258EBa39Aeef9ee58dE31dF584FF789AA07B77FF",
+      "underlyingErc20TokenAddress": "0x1a65eB80a2ac3ea6E41D456DdD6E9cC5728BEf7C",
+      "name": "Pendle-YT-PUFETH-MAINNET-SEP2024",
+      "symbol": "Pendle-YT-PUFETH-MAINNET-SEP2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xCa5DD790aC4Fa02c2aA586854957cDB21ADbD707",
+      "underlyingErc20TokenAddress": "0xA54Df645A042D24121a737dAA89a57EbF8E0b71c",
+      "name": "Pendle-YT-WEETH-MAINNET-SEP2024",
+      "symbol": "Pendle-YT-WEETH-MAINNET-SEP2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x6336533E39e3E3099F50F99a2d6C509118a47c3c",
+      "underlyingErc20TokenAddress": "0xf3aBC972A0f537c1119C990d422463b93227Cd83",
+      "name": "Pendle-YT-STETH-25DEC2025",
+      "symbol": "Pendle-YT-STETH-25DEC2025",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x8B40EF1f4401fa25AE2336994d5c9AE8f8DC1Bab",
+      "underlyingErc20TokenAddress": "0x323DA63d354c9d79DF927fd21CE5B97aDD3a50d9",
+      "name": "Pendle-YT-ZIRCUIT-WEETH-MAINNET-AUG2024",
+      "symbol": "Pendle-YT-ZIRCUIT-WEETH-MAINNET-AUG2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x36bc85c37462b79Ab3556F1343787d0d382F4A3f",
+      "underlyingErc20TokenAddress": "0xF32e58F92e60f4b0A37A69b95d642A471365EAe8",
+      "name": "Pendle-LP-WEETH-JUNE2024",
+      "symbol": "Pendle-LP-WEETH-JUNE2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xc101B6FD580aC3428180bf5B21575311a1ED3459",
+      "underlyingErc20TokenAddress": "0x4f43c77872Db6BA177c270986CD30c3381AF37Ee",
+      "name": "Pendle-LP-RSETH-KELP-JUNE2024",
+      "symbol": "Pendle-LP-RSETH-KELP-JUNE2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xd54FEAD68f168fe5Eab584c5A22a8046dE6B28a8",
+      "underlyingErc20TokenAddress": "0x17BE998a578fD97687b24E83954FEc86Dc20c979",
+      "name": "Pendle-LP-PUFETH-JUNE2024",
+      "symbol": "Pendle-LP-PUFETH-JUNE2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xDd09c0e888Bd647a085A789507dad6B7b7CA7d5F",
+      "underlyingErc20TokenAddress": "0xd7E0809998693fD87E81D51dE1619fd0EE658031",
+      "name": "Pendle-LP-ZIRCUIT-EZETH-JUNE2024",
+      "symbol": "Pendle-LP-ZIRCUIT-EZETH-JUNE2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x1e3Ed4151217de1fee01041026Ddf19Fe795Eb80",
+      "underlyingErc20TokenAddress": "0xe26D7f9409581f606242300fbFE63f56789F2169",
+      "name": "Pendle-LP-ZIRCUIT-EETH-JUN2024",
+      "symbol": "Pendle-LP-ZIRCUIT-EETH-JUN2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x58Aeb063a309a6110d9b2406EaaC0379Da48bE97",
+      "underlyingErc20TokenAddress": "0x445d25a1c31445fb29e65d12da8e0eea38174176",
+      "name": "Pendle-LP-ZIRCUIT-RSETH-JUN2024",
+      "symbol": "Pendle-LP-ZIRCUIT-RSETH-JUN2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7A3543e492BF63D342493E757E9e2717529aBD6E",
+      "underlyingErc20TokenAddress": "0xd1D7D99764f8a52Aff007b7831cc02748b2013b5",
+      "name": "Pendle-LP-SUSDE-MAINNET-SEP2024",
+      "symbol": "Pendle-LP-SUSDE-MAINNET-SEP2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x7D5be99d818C11927D9400208D0664D53AeeABEc",
+      "underlyingErc20TokenAddress": "0x7d372819240D14fB477f17b964f95F33BeB4c704",
+      "name": "Pendle-LP-WEETH-DEC2024",
+      "symbol": "Pendle-LP-WEETH-DEC2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x53bD86d63c1b5D9C5214C748Ae06e6d194Ab684a",
+      "underlyingErc20TokenAddress": "0xD8F12bCDE578c653014F27379a6114F67F0e445f",
+      "name": "Pendle-LP-EZETH-DEC2024",
+      "symbol": "Pendle-LP-EZETH-DEC2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x287C0E3bC8b2ca6c45EC8Ef3A5FBDdd299263b84",
+      "underlyingErc20TokenAddress": "0xA54FC268101c8b97DE19eF3141d34751a11996B2",
+      "name": "Pendle-LP-PUFETH-MAINNET-SEP2024",
+      "symbol": "Pendle-LP-PUFETH-MAINNET-SEP2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x4F24843AF1B41e343010fe6C567F6fB4b5a29277",
+      "underlyingErc20TokenAddress": "0xC8eDd52D0502Aa8b4D5C77361D4B3D300e8fC81c",
+      "name": "Pendle-LP-WEETH-MAINNET-SEP2024",
+      "symbol": "Pendle-LP-WEETH-MAINNET-SEP2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xD25ce5087B9118786f2cCD45Bf80e98E678B0141",
+      "underlyingErc20TokenAddress": "0xC374f7eC85F8C7DE3207a10bB1978bA104bdA3B2",
+      "name": "Pendle-LP-STETH-25DEC2025",
+      "symbol": "Pendle-LP-STETH-25DEC2025",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0xDDC257FC24b2EDF40c3cF350787Fe93F42b653e9",
+      "underlyingErc20TokenAddress": "0x6c269DFc142259c52773430b3c78503CC994a93E",
+      "name": "Pendle-LP-ZIRCUIT-WEETH-MAINNET-AUG2024",
+      "symbol": "Pendle-LP-ZIRCUIT-WEETH-MAINNET-AUG2024",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+      "chainId": 1,
+      "erc20TokenAddress": "0x2B95523CDaB8f6C758992fB06621fA81184cF5e7",
+      "underlyingErc20TokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "decimals": 6,
+      "name": "Hinkal USDC",
+      "symbol": "hUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "isHToken": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "hinkalAddress": "0x65cd1b3921ece2ec8663fa1728e827ccfd5104db",
+  "hinkalHelperAddress": "0x844ebfad3b9c270065799316ef58d6730b82f713",
+  "depositOnChainUtxosExternalActionAddress": "0x9a6cd2796be947af7217a9d14c04fa8648ba2d00",
+  "hinkalWrapperAddress": "0x5ab826ce3945576f3a9c17d4a273816c249366b1"
+}

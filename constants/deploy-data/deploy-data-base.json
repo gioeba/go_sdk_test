@@ -1,0 +1,11 @@
+{
+  "hinkalAddress": "0x25e5e82f5702A27C3466fE68f14abDbbAdFca826",
+  "hinkalHelperAddress": "0x08a5527B96b0946054Fd2120B9B6A5c76df432c2",
+  "uniswapExternalActionAddress": "0x93A6074157345Fda632Cc4c6de41F26a88400AEd",
+  "odosExternalActionInstanceAddress": "0x21802cC438026DD5FC3359460051A32f4F6C0211",
+  "oneInchExternalActionInstanceAddress": "0x6087b2E48d136F1020A5DC14b1286790fa17D5BC",
+  "emporiumAddress": "0x9Ee3b51350c98f0E912441aAf35166d7A71310A0",
+  "hinkalWalletAddress": "0xd079ADceaeC7276f693a097248246Da6ac581A19",
+  "hinkalWrapperAddress": "0x58A5102db2f08291c7a9E2BC320C9100A48042Ee",
+  "depositOnChainUtxosExternalActionAddress": "0x4c1c127ED7785035A51ce1DA415e6643B911622F"
+}

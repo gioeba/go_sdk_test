@@ -1,0 +1,36 @@
+{
+  "networkRegistry": [
+    {
+      "chainId": 143,
+      "erc20TokenAddress": "0x0000000000000000000000000000000000000000",
+      "name": "Monad",
+      "symbol": "MON",
+      "decimals": 18,
+      "logoURI": "https://static.debank.com/image/monad_token/logo_url/monad/9df1611d238781f78045fba9101359a3.png"
+    },
+    {
+      "chainId": 143,
+      "erc20TokenAddress": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDc.avif"
+    },
+    {
+      "chainId": 143,
+      "erc20TokenAddress": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+      "name": "Tether USD (USDT0)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDT.avif"
+    },
+    {
+      "chainId": 143,
+      "erc20TokenAddress": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}

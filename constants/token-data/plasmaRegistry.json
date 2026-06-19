@@ -1,0 +1,28 @@
+{
+  "networkRegistry": [
+    {
+      "chainId": 9745,
+      "erc20TokenAddress": "0x0000000000000000000000000000000000000000",
+      "name": "Plasma",
+      "symbol": "XPL",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36645.png"
+    },
+    {
+      "chainId": 9745,
+      "erc20TokenAddress": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      "name": "Tether USD (USDT0)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDT.avif"
+    },
+    {
+      "chainId": 9745,
+      "erc20TokenAddress": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}

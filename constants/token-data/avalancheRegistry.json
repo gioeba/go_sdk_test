@@ -1,0 +1,44 @@
+{
+  "networkRegistry": [
+    {
+      "chainId": 43114,
+      "erc20TokenAddress": "0x0000000000000000000000000000000000000000",
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/avax/0b9c84359c84d6bdd5bfda9c2d4c4a82.png"
+    },
+    {
+      "chainId": 43114,
+      "erc20TokenAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDc.avif"
+    },
+    {
+      "chainId": 43114,
+      "erc20TokenAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDT.avif"
+    },
+    {
+      "chainId": 43114,
+      "erc20TokenAddress": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "name": "Wrapped Ether (WETH.e)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "erc20TokenAddress": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+      "name": "Dai Stablecoin (DAI.e)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
+  ]
+}

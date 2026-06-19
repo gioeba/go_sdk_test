@@ -1,0 +1,44 @@
+{
+  "networkRegistry": [
+    {
+      "chainId": 56,
+      "erc20TokenAddress": "0x0000000000000000000000000000000000000000",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/info/logo.png"
+    },
+    {
+      "chainId": 56,
+      "erc20TokenAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDc.avif"
+    },
+    {
+      "chainId": 56,
+      "erc20TokenAddress": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://storage.googleapis.com/hinkal-s3-assets/token-logos/USDT.avif"
+    },
+    {
+      "chainId": 56,
+      "erc20TokenAddress": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "name": "Ethereum Token",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 56,
+      "erc20TokenAddress": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    }
+  ]
+}
